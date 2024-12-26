@@ -2,8 +2,6 @@
 
 Chào mừng bạn đến với kho lưu trữ GitHub tuyệt vời của tôi! Tôi là Thắng, một lập trình viên đam mê và yêu thích công nghệ.
 
-![Chào mừng GIF](https://media.giphy.com/media/3o7aD0v2x7Bdznl3us/giphy.gif)
-
 ## Về tôi
 
 - 🌱 Hiện tại tôi đang học **Spring Boot** và **jQuery**.
@@ -16,7 +14,6 @@ Chào mừng bạn đến với kho lưu trữ GitHub tuyệt vời của tôi! 
 - Một nền tảng mạng xã hội đơn giản với các tính năng cơ bản như nhắn tin, kết bạn và thích bài viết.
 - Công nghệ sử dụng: **Spring Boot**, **Java**, **MySQL**.
 
-![Ứng dụng Mạng xã hội GIF](https://media.giphy.com/media/Ju7l5yRr8sD4/giphy.gif)
 
 ## Kỹ năng của tôi 🛠️
 
@@ -48,8 +45,5 @@ Hãy tự do fork các kho lưu trữ của tôi và đóng góp! Đây là các
 
 Mong nhận được sự đóng góp của bạn! ✨
 ---
-## Thống kê người truy cập
-
 ![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=pthngws)
-
 

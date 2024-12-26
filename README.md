@@ -1,36 +1,55 @@
-# Welcome to My GitHub Profile! 👋✨
+# Chào mừng đến với hồ sơ GitHub của tôi! 👋✨
 
-Welcome to my awesome GitHub repository! I'm Thắng, a passionate developer and tech enthusiast.
+Chào mừng bạn đến với kho lưu trữ GitHub tuyệt vời của tôi! Tôi là Thắng, một lập trình viên đam mê và yêu thích công nghệ.
 
-![Welcome GIF](https://media.giphy.com/media/3o7aD0v2x7Bdznl3us/giphy.gif)
+![Chào mừng GIF](https://media.giphy.com/media/3o7aD0v2x7Bdznl3us/giphy.gif)
 
-## About Me
+## Về tôi
 
-- 🌱 I'm currently learning **Spring Boot** and **jQuery**.
-- 🌟 I'm learning how to make better **web applications**.
+- 🌱 Hiện tại tôi đang học **Spring Boot** và **jQuery**.
+- 🌟 Tôi đang học cách xây dựng những **ứng dụng web** tốt hơn.
 
-## My Projects
+## Dự án của tôi
 
-### 🚀 Social Media App
+### 🚀 Ứng dụng Mạng xã hội
 
-- A simple social media platform with basic features like messaging, friend requests, and liking posts.
-- Technologies: **Spring Boot**, **Java**, **MySQL**.
+- Một nền tảng mạng xã hội đơn giản với các tính năng cơ bản như nhắn tin, kết bạn và thích bài viết.
+- Công nghệ sử dụng: **Spring Boot**, **Java**, **MySQL**.
 
-![Social Media App GIF](https://media.giphy.com/media/Ju7l5yRr8sD4/giphy.gif)
+![Ứng dụng Mạng xã hội GIF](https://media.giphy.com/media/Ju7l5yRr8sD4/giphy.gif)
 
-## Skills 🛠️
+## Kỹ năng của tôi 🛠️
 
-- **Languages**: Java, JavaScript, SQL
+- **Ngôn ngữ**: Java, JavaScript, SQL
 - **Frameworks**: Spring Boot, jQuery
-- **Databases**: MySQL
+- **Cơ sở dữ liệu**: MySQL
 
-## Connect with Me
+## Kết nối với tôi
 
 - 📧 Email: [pthngws@gmail.com](mailto:pthngws@gmail.com)
 - 💻 GitHub: [pthngws](https://github.com/pthngws)
 
-> *"Coding is like a puzzle; the more pieces you fit, the clearer the picture becomes."*
+> *"Lập trình giống như một câu đố, càng ghép nhiều mảnh, bức tranh càng rõ ràng."*
 
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pthngws&show_icons=true&hide_title=true)
+
+
+### Cách đóng góp
+
+Hãy tự do fork các kho lưu trữ của tôi và đóng góp! Đây là cách bạn có thể làm:
+
+1. Fork kho lưu trữ.
+2. Tạo nhánh tính năng mới (`git checkout -b ten-tinh-nang`).
+3. Commit thay đổi của bạn (`git commit -m 'Thêm tính năng mới'`).
+4. Push lên nhánh (`git push origin ten-tinh-nang`).
+5. Tạo Pull Request mới.
+
+Mong nhận được sự đóng góp của bạn! ✨
+---
+## Thống kê người truy cập
+
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=pthngws)
+
+

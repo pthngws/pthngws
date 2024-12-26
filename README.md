@@ -23,5 +23,12 @@ Hi, I'm Thắng, a programming enthusiast from Đại học Sư phạm Kỹ thu�
 
 ---
 
+## 🌟 Favorite Quote
+
+_"The only way to do great work is to love what you do." — Steve Jobs_
+
+---
 ## 📈 Visitor Count
 [![](https://visitcount.itsvg.in/api?id=pthngws&icon=0&color=0)](https://visitcount.itsvg.in)
+
+

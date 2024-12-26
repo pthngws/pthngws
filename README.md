@@ -45,5 +45,5 @@ Hãy tự do fork các kho lưu trữ của tôi và đóng góp! Đây là các
 
 Mong nhận được sự đóng góp của bạn! ✨
 ---
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=pthngws)
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=pthngws.pthngws)
 

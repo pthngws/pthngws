@@ -1,3 +1,9 @@
+## 👨‍💻 About Me
+
+Hello! I'm Thắng, a passionate programmer and a student at Đại học Sư phạm Kỹ thuật TP.HCM. I love working with different programming languages and technologies to build exciting and innovative solutions. Currently, I'm focusing on full-stack development and exploring new tools and frameworks to enhance my skills. Feel free to reach out if you want to collaborate or just chat about tech!
+
+---
+
 ## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/pthngws)
 

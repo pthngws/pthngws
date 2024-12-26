@@ -1,7 +1,6 @@
 ## 👨‍💻 About Me
 
-Hello! I'm Thắng, a passionate programmer and a student at Đại học Sư phạm Kỹ thuật TP.HCM. I love working with different programming languages and technologies to build exciting and innovative solutions. Currently, I'm focusing on full-stack development and exploring new tools and frameworks to enhance my skills. Feel free to reach out if you want to collaborate or just chat about tech!
-
+Hi, I'm Thắng, a programming enthusiast from Đại học Sư phạm Kỹ thuật TP.HCM. I enjoy building software with a focus on full-stack development and always eager to learn new technologies.
 ---
 
 ## 🌐 Socials

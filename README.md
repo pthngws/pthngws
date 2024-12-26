@@ -2,7 +2,7 @@
   
 ## 👨‍💻 About Me
 
-Hi, I'm Thắng 👋
+**Hi, I'm Thắng 👋**
 
 I'm a programming enthusiast from **HCMC University of Technology and Education**.  
 I enjoy building software with a focus on **full-stack development** and am always eager to learn new technologies.  

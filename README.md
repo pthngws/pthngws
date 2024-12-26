@@ -1,26 +1,17 @@
-<p align="center">
-  ## 👨‍💻 About Me
-</p>
+## 👨‍💻 About Me
 
-<p align="center">
-  Hi, I'm Thắng, a programming enthusiast from HCMC University of Technology and Education. I enjoy building software with a focus on full-stack development and always eager to learn new technologies.
-</p>
+Hi, I'm Thắng, a programming enthusiast from HCMC University of Technology and Education. I enjoy building software with a focus on full-stack development and always eager to learn new technologies.
 
 ---
 
-<p align="center">
-  ## 🌐 Socials
-</p>
-
+## 🌐 Socials
 <p align="center">
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/pthngws)
 </p>
 
 ---
 
-<p align="center">
-  ## 💻 Tech Stack
-</p>
+## 💻 Tech Stack
 
 <p align="center">
   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
@@ -46,9 +37,7 @@
 
 ---
 
-<p align="center">
-  ## 📊 GitHub Stats
-</p>
+## 📊 GitHub Stats
 
 <p align="center">
   | GitHub Stats | Top Languages |
@@ -58,19 +47,13 @@
 
 ---
 
-<p align="center">
-  ## 🌟 Favorite Quote
-</p>
+## 🌟 Favorite Quote
 
-<p align="center">
-  _"The only way to do great work is to love what you do." — Steve Jobs_
-</p>
+_"The only way to do great work is to love what you do." — Steve Jobs_
 
 ---
 
-<p align="center">
-  ## 📈 Visitor Count
-</p>
+## 📈 Visitor Count
 
 <p align="center">
   [![](https://visitcount.itsvg.in/api?id=pthngws&icon=0&color=0)](https://visitcount.itsvg.in)

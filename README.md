@@ -1,14 +1,15 @@
+<div align="center">
 ## 👨‍💻 About Me
 
-Hi, I'm Thắng,  
-a programming enthusiast from Đại học Sư phạm Kỹ thuật TP.HCM.  
-I enjoy building software with a focus on full-stack development  
-and always eager to learn new technologies.  
+# Hi, I'm Thắng 👋
+
+I'm a programming enthusiast from **HCMC University of Technology and Education**.  
+I enjoy building software with a focus on **full-stack development** and am always eager to learn new technologies.  
+I'm passionate about solving problems and continuously improving my skills. 🚀
+
+Feel free to connect with me! ✨
 
 ---
-
-<div align="center">
-
 ## 🌐 Socials  
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/pthngws)  
 
@@ -33,6 +34,5 @@ and always eager to learn new technologies.
 _"The only way to do great work is to love what you do." — Steve Jobs_  
 
 --- 
-[![](https://visitcount.itsvg.in/api?id=pthngws&icon=0&color=0)](https://visitcount.itsvg.in)  
-
 </div>
+[![](https://visitcount.itsvg.in/api?id=pthngws&icon=0&color=0)](https://visitcount.itsvg.in)  

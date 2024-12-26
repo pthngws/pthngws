@@ -1,6 +1,6 @@
 ## 👨‍💻 About Me
 
-Hi, I'm Thắng, a programming enthusiast from Đại học Sư phạm Kỹ thuật TP.HCM. I enjoy building software with a focus on full-stack development and always eager to learn new technologies.
+Hi, I'm Thắng, a programming enthusiast from HCMC University of Technology and Education. I enjoy building software with a focus on full-stack development and always eager to learn new technologies.
 ---
 
 ## 🌐 Socials

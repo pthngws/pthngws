@@ -36,4 +36,5 @@ _"The only way to do great work is to love what you do." — Steve Jobs_
 
 --- 
 </div>
-[![](https://visitcount.itsvg.in/api?id=pthngws&icon=0&color=0)](https://visitcount.itsvg.in)  
+
+[![](https://visitcount.itsvg.in/api?id=pthngws&icon=0&color=0)](https://visitcount.itsvg.in)

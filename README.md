@@ -43,9 +43,9 @@ Feel free to connect with me! ✨
 
 ## 📊 GitHub Stats  
 
-| GitHub Stats | Top Languages | Top Languages |
-|--------------|---------------|---------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pthngws&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pthngws&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact) | ![visitors](https://visitor-badge.laobi.icu/badge?page_id=pthngws.pthngws)
+| GitHub Stats | Top Languages |
+|--------------|---------------|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pthngws&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pthngws&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact) |
 ---
 
 ## 🌟 Favorite Quote  
@@ -53,6 +53,8 @@ Feel free to connect with me! ✨
 _"The only way to do great work is to love what you do." — Steve Jobs_  
 
 --- 
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=pthngws.pthngws)
 </div>
 
 

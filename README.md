@@ -1,3 +1,4 @@
+<div>
 <div align="center">
   
 ## 👨‍💻 About Me
@@ -53,6 +54,7 @@ Feel free to connect with me! ✨
 _"The only way to do great work is to love what you do." — Steve Jobs_  
 
 --- 
+</div>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=pthngws.pthngws)
 
 </div>

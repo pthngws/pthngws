@@ -43,10 +43,9 @@ Feel free to connect with me! ✨
 
 ## 📊 GitHub Stats  
 
-| GitHub Stats | Top Languages | GitHub Streak |
-|--------------|---------------|---------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pthngws&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pthngws&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact) |  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pthngws&theme=tokyonight&hide_border=true)  |
-
+| GitHub Stats | Top Languages |
+|--------------|---------------|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pthngws&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pthngws&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact) | 
 ---
 
 ## 🌟 Favorite Quote  
